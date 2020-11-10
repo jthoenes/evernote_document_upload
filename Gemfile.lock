@@ -10,7 +10,7 @@ GEM
     nokogiri (1.7.1)
       mini_portile2 (~> 2.1.0)
     oauth (0.5.1)
-    rack (1.6.5)
+    rack (1.6.13)
     rack-protection (1.5.3)
       rack
     sinatra (1.4.8)
