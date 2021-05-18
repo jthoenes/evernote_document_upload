@@ -5,14 +5,19 @@ GEM
     evernote_oauth (0.2.3)
       evernote-thrift
       oauth (>= 0.4.1)
-    mimemagic (0.3.2)
-    mini_portile2 (2.1.0)
-    nokogiri (1.7.1)
-      mini_portile2 (~> 2.1.0)
+    mimemagic (0.4.3)
+      nokogiri (~> 1)
+      rake
+    mini_portile2 (2.5.1)
+    nokogiri (1.11.4)
+      mini_portile2 (~> 2.5.0)
+      racc (~> 1.4)
     oauth (0.5.1)
+    racc (1.5.2)
     rack (1.6.5)
     rack-protection (1.5.3)
       rack
+    rake (13.0.3)
     sinatra (1.4.8)
       rack (~> 1.5)
       rack-protection (~> 1.4)
